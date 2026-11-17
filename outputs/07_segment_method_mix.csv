@@ -1,0 +1,25 @@
+segment,payment_method,share_q4_2024_pct,share_q4_2025_pct,contribution_1_bps_2025
+Digital subscriptions,credit_card,22.8,20.0,156.4
+Digital subscriptions,debit_card,39.8,35.6,204.5
+Digital subscriptions,digital_wallet,33.4,39.9,192.6
+Digital subscriptions,local_bank,3.9,4.4,109.6
+Enterprise retail,bnpl,6.5,9.0,5.0
+Enterprise retail,credit_card,18.4,15.9,10.5
+Enterprise retail,debit_card,36.7,32.6,9.0
+Enterprise retail,digital_wallet,23.3,27.0,6.5
+Enterprise retail,local_bank,15.1,15.5,14.1
+Marketplaces,bnpl,13.4,20.9,14.2
+Marketplaces,credit_card,17.9,14.3,27.4
+Marketplaces,debit_card,31.4,25.4,27.8
+Marketplaces,digital_wallet,27.1,29.4,25.0
+Marketplaces,local_bank,10.2,10.0,22.3
+SMB retail,bnpl,7.1,9.6,79.0
+SMB retail,credit_card,15.6,13.6,147.8
+SMB retail,debit_card,33.7,29.6,179.5
+SMB retail,digital_wallet,22.9,26.6,166.1
+SMB retail,local_bank,20.7,20.6,38.5
+Travel & hospitality,bnpl,3.1,4.3,21.0
+Travel & hospitality,credit_card,37.7,33.6,34.2
+Travel & hospitality,debit_card,27.1,24.3,34.8
+Travel & hospitality,digital_wallet,19.8,23.1,34.1
+Travel & hospitality,local_bank,12.2,14.7,2.7

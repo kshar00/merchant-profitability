@@ -1,0 +1,551 @@
+merchant_id,segment,country,pricing_model,start_month,end_month,cost_to_serve_eur_month
+M0001,Enterprise retail,DE,ic_plus,2024-01-01,,6000
+M0002,Enterprise retail,FR,ic_plus,2024-01-01,,6000
+M0003,Enterprise retail,UK,ic_plus,2024-01-01,,6000
+M0004,Enterprise retail,UK,ic_plus,2024-01-01,,6000
+M0005,Enterprise retail,FR,ic_plus,2024-01-01,,6000
+M0006,Enterprise retail,DE,ic_plus,2024-01-01,,6000
+M0007,Enterprise retail,NL,ic_plus,2024-01-01,,6000
+M0008,Enterprise retail,UK,ic_plus,2024-01-01,,6000
+M0009,Enterprise retail,FR,ic_plus,2024-01-01,,6000
+M0010,Enterprise retail,US,ic_plus,2024-01-01,,6000
+M0011,Enterprise retail,UK,ic_plus,2024-01-01,,6000
+M0012,Enterprise retail,NL,ic_plus,2024-01-01,,6000
+M0013,Enterprise retail,DE,ic_plus,2024-01-01,,6000
+M0014,Enterprise retail,FR,ic_plus,2024-01-01,,6000
+M0015,Enterprise retail,UK,ic_plus,2024-01-01,,6000
+M0016,Enterprise retail,NL,ic_plus,2024-01-01,,6000
+M0017,Enterprise retail,DE,ic_plus,2024-01-01,,6000
+M0018,Enterprise retail,NL,ic_plus,2024-01-01,,6000
+M0019,Enterprise retail,US,ic_plus,2024-01-01,,6000
+M0020,Enterprise retail,UK,ic_plus,2024-01-01,,6000
+M0021,Marketplaces,UK,ic_plus,2024-01-01,,2500
+M0022,Marketplaces,FR,ic_plus,2024-01-01,,2500
+M0023,Marketplaces,NL,ic_plus,2024-01-01,,2500
+M0024,Marketplaces,UK,ic_plus,2024-01-01,,2500
+M0025,Marketplaces,ES,ic_plus,2024-01-01,,2500
+M0026,Marketplaces,UK,ic_plus,2024-01-01,,2500
+M0027,Marketplaces,UK,ic_plus,2024-01-01,,2500
+M0028,Marketplaces,Nordics,ic_plus,2024-01-01,,2500
+M0029,Marketplaces,DE,ic_plus,2025-06-01,,2500
+M0030,Marketplaces,NL,ic_plus,2024-01-01,,2500
+M0031,Marketplaces,US,ic_plus,2024-01-01,,2500
+M0032,Marketplaces,ES,ic_plus,2024-01-01,,2500
+M0033,Marketplaces,ES,ic_plus,2024-10-01,,2500
+M0034,Marketplaces,Nordics,ic_plus,2024-01-01,,2500
+M0035,Marketplaces,UK,ic_plus,2024-10-01,,2500
+M0036,Marketplaces,DE,ic_plus,2024-08-01,,2500
+M0037,Marketplaces,UK,ic_plus,2025-02-01,,2500
+M0038,Marketplaces,DE,ic_plus,2024-01-01,,2500
+M0039,Marketplaces,US,ic_plus,2024-01-01,,2500
+M0040,Marketplaces,Nordics,ic_plus,2024-01-01,,2500
+M0041,Marketplaces,US,ic_plus,2024-01-01,,2500
+M0042,Marketplaces,ES,ic_plus,2024-01-01,,2500
+M0043,Marketplaces,NL,ic_plus,2024-11-01,,2500
+M0044,Marketplaces,US,ic_plus,2024-01-01,,2500
+M0045,Marketplaces,UK,ic_plus,2024-01-01,,2500
+M0046,Marketplaces,DE,ic_plus,2024-01-01,,2500
+M0047,Marketplaces,Nordics,ic_plus,2024-01-01,,2500
+M0048,Marketplaces,DE,ic_plus,2024-01-01,,2500
+M0049,Marketplaces,DE,ic_plus,2024-01-01,,2500
+M0050,Marketplaces,NL,ic_plus,2024-01-01,,2500
+M0051,Travel & hospitality,ES,ic_plus,2024-01-01,,1500
+M0052,Travel & hospitality,UK,ic_plus,2025-03-01,,1500
+M0053,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0054,Travel & hospitality,Nordics,ic_plus,2024-01-01,,1500
+M0055,Travel & hospitality,FR,ic_plus,2024-01-01,,1500
+M0056,Travel & hospitality,NL,ic_plus,2024-01-01,,1500
+M0057,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0058,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0059,Travel & hospitality,FR,ic_plus,2024-01-01,,1500
+M0060,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0061,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0062,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0063,Travel & hospitality,NL,ic_plus,2024-05-01,,1500
+M0064,Travel & hospitality,US,ic_plus,2024-01-01,,1500
+M0065,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0066,Travel & hospitality,ES,ic_plus,2024-01-01,,1500
+M0067,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0068,Travel & hospitality,NL,ic_plus,2024-01-01,,1500
+M0069,Travel & hospitality,FR,ic_plus,2024-01-01,,1500
+M0070,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0071,Travel & hospitality,ES,ic_plus,2024-01-01,,1500
+M0072,Travel & hospitality,DE,ic_plus,2024-01-01,,1500
+M0073,Travel & hospitality,NL,ic_plus,2024-01-01,,1500
+M0074,Travel & hospitality,US,ic_plus,2024-05-01,,1500
+M0075,Travel & hospitality,Nordics,ic_plus,2024-01-01,,1500
+M0076,Travel & hospitality,NL,ic_plus,2025-04-01,,1500
+M0077,Travel & hospitality,FR,ic_plus,2024-01-01,,1500
+M0078,Travel & hospitality,FR,ic_plus,2025-07-01,,1500
+M0079,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0080,Travel & hospitality,UK,ic_plus,2024-01-01,,1500
+M0081,Travel & hospitality,NL,ic_plus,2024-01-01,,1500
+M0082,Travel & hospitality,DE,ic_plus,2024-01-01,,1500
+M0083,Travel & hospitality,DE,ic_plus,2024-01-01,,1500
+M0084,Travel & hospitality,US,ic_plus,2024-01-01,,1500
+M0085,Travel & hospitality,ES,ic_plus,2024-01-01,,1500
+M0086,Travel & hospitality,ES,ic_plus,2024-01-01,,1500
+M0087,Travel & hospitality,ES,ic_plus,2024-01-01,,1500
+M0088,Travel & hospitality,UK,ic_plus,2025-02-01,,1500
+M0089,Travel & hospitality,DE,ic_plus,2024-01-01,,1500
+M0090,Travel & hospitality,ES,ic_plus,2025-06-01,,1500
+M0091,Digital subscriptions,FR,blended,2024-01-01,,400
+M0092,Digital subscriptions,UK,blended,2024-01-01,,400
+M0093,Digital subscriptions,NL,blended,2025-08-01,,400
+M0094,Digital subscriptions,UK,blended,2024-10-01,,400
+M0095,Digital subscriptions,NL,blended,2024-10-01,,400
+M0096,Digital subscriptions,DE,blended,2024-01-01,,400
+M0097,Digital subscriptions,US,blended,2024-05-01,,400
+M0098,Digital subscriptions,UK,blended,2024-08-01,,400
+M0099,Digital subscriptions,UK,blended,2024-01-01,,400
+M0100,Digital subscriptions,US,blended,2024-01-01,,400
+M0101,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0102,Digital subscriptions,DE,blended,2024-01-01,,400
+M0103,Digital subscriptions,UK,blended,2024-01-01,,400
+M0104,Digital subscriptions,US,blended,2024-01-01,,400
+M0105,Digital subscriptions,US,blended,2024-01-01,,400
+M0106,Digital subscriptions,UK,blended,2024-01-01,,400
+M0107,Digital subscriptions,DE,blended,2024-01-01,,400
+M0108,Digital subscriptions,UK,blended,2024-01-01,,400
+M0109,Digital subscriptions,UK,blended,2024-01-01,,400
+M0110,Digital subscriptions,US,blended,2025-05-01,,400
+M0111,Digital subscriptions,NL,blended,2024-01-01,,400
+M0112,Digital subscriptions,UK,blended,2024-01-01,,400
+M0113,Digital subscriptions,FR,blended,2024-01-01,,400
+M0114,Digital subscriptions,US,blended,2024-01-01,,400
+M0115,Digital subscriptions,DE,blended,2024-01-01,,400
+M0116,Digital subscriptions,UK,blended,2024-01-01,,400
+M0117,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0118,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0119,Digital subscriptions,US,blended,2024-01-01,,400
+M0120,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0121,Digital subscriptions,FR,blended,2024-01-01,,400
+M0122,Digital subscriptions,US,blended,2024-01-01,,400
+M0123,Digital subscriptions,US,blended,2024-01-01,,400
+M0124,Digital subscriptions,UK,blended,2024-01-01,,400
+M0125,Digital subscriptions,DE,blended,2024-01-01,,400
+M0126,Digital subscriptions,FR,blended,2025-01-01,,400
+M0127,Digital subscriptions,US,blended,2024-01-01,,400
+M0128,Digital subscriptions,DE,blended,2024-01-01,,400
+M0129,Digital subscriptions,FR,blended,2024-01-01,,400
+M0130,Digital subscriptions,UK,blended,2024-01-01,,400
+M0131,Digital subscriptions,US,blended,2024-01-01,,400
+M0132,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0133,Digital subscriptions,UK,blended,2024-01-01,,400
+M0134,Digital subscriptions,US,blended,2024-01-01,,400
+M0135,Digital subscriptions,US,blended,2024-01-01,,400
+M0136,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0137,Digital subscriptions,FR,blended,2024-01-01,,400
+M0138,Digital subscriptions,NL,blended,2024-01-01,,400
+M0139,Digital subscriptions,NL,blended,2024-01-01,,400
+M0140,Digital subscriptions,UK,blended,2024-01-01,,400
+M0141,Digital subscriptions,UK,blended,2025-06-01,,400
+M0142,Digital subscriptions,NL,blended,2025-08-01,,400
+M0143,Digital subscriptions,NL,blended,2024-01-01,,400
+M0144,Digital subscriptions,FR,blended,2024-01-01,,400
+M0145,Digital subscriptions,NL,blended,2024-09-01,,400
+M0146,Digital subscriptions,UK,blended,2024-01-01,,400
+M0147,Digital subscriptions,FR,blended,2024-01-01,,400
+M0148,Digital subscriptions,UK,blended,2024-01-01,,400
+M0149,Digital subscriptions,NL,blended,2024-01-01,,400
+M0150,Digital subscriptions,Nordics,blended,2024-01-01,,400
+M0151,SMB retail,FR,blended,2025-08-01,,250
+M0152,SMB retail,NL,blended,2024-01-01,,250
+M0153,SMB retail,NL,blended,2024-01-01,,250
+M0154,SMB retail,ES,blended,2024-01-01,,250
+M0155,SMB retail,FR,blended,2024-01-01,,250
+M0156,SMB retail,Nordics,blended,2024-01-01,,250
+M0157,SMB retail,UK,blended,2024-01-01,,250
+M0158,SMB retail,NL,blended,2024-01-01,,250
+M0159,SMB retail,UK,blended,2024-01-01,,250
+M0160,SMB retail,Nordics,blended,2024-01-01,,250
+M0161,SMB retail,ES,blended,2024-01-01,,250
+M0162,SMB retail,UK,blended,2024-01-01,,250
+M0163,SMB retail,Nordics,blended,2024-01-01,,250
+M0164,SMB retail,ES,blended,2024-01-01,,250
+M0165,SMB retail,FR,blended,2024-01-01,,250
+M0166,SMB retail,NL,blended,2024-01-01,,250
+M0167,SMB retail,UK,blended,2024-01-01,2025-08-01,250
+M0168,SMB retail,Nordics,blended,2024-01-01,,250
+M0169,SMB retail,NL,blended,2024-01-01,,250
+M0170,SMB retail,NL,blended,2025-06-01,,250
+M0171,SMB retail,NL,blended,2024-01-01,,250
+M0172,SMB retail,FR,blended,2024-01-01,,250
+M0173,SMB retail,DE,blended,2024-01-01,,250
+M0174,SMB retail,ES,blended,2024-01-01,2025-06-01,250
+M0175,SMB retail,NL,blended,2024-01-01,,250
+M0176,SMB retail,ES,blended,2024-01-01,,250
+M0177,SMB retail,US,blended,2024-01-01,,250
+M0178,SMB retail,DE,blended,2024-01-01,,250
+M0179,SMB retail,Nordics,blended,2024-01-01,,250
+M0180,SMB retail,ES,blended,2024-10-01,,250
+M0181,SMB retail,UK,blended,2024-01-01,,250
+M0182,SMB retail,NL,blended,2024-01-01,,250
+M0183,SMB retail,NL,blended,2024-01-01,,250
+M0184,SMB retail,NL,blended,2024-01-01,,250
+M0185,SMB retail,NL,blended,2024-01-01,2024-11-01,250
+M0186,SMB retail,UK,blended,2024-01-01,,250
+M0187,SMB retail,NL,blended,2024-01-01,,250
+M0188,SMB retail,Nordics,blended,2024-01-01,,250
+M0189,SMB retail,NL,blended,2024-01-01,,250
+M0190,SMB retail,FR,blended,2024-01-01,,250
+M0191,SMB retail,FR,blended,2024-01-01,,250
+M0192,SMB retail,DE,blended,2024-01-01,,250
+M0193,SMB retail,Nordics,blended,2024-01-01,2024-09-01,250
+M0194,SMB retail,ES,blended,2024-01-01,,250
+M0195,SMB retail,Nordics,blended,2024-01-01,,250
+M0196,SMB retail,NL,blended,2024-01-01,,250
+M0197,SMB retail,DE,blended,2024-01-01,,250
+M0198,SMB retail,DE,blended,2024-05-01,,250
+M0199,SMB retail,DE,blended,2024-01-01,,250
+M0200,SMB retail,DE,blended,2024-01-01,,250
+M0201,SMB retail,ES,blended,2024-01-01,,250
+M0202,SMB retail,NL,blended,2024-01-01,,250
+M0203,SMB retail,FR,blended,2024-01-01,,250
+M0204,SMB retail,NL,blended,2024-01-01,,250
+M0205,SMB retail,UK,blended,2024-09-01,2025-01-01,250
+M0206,SMB retail,NL,blended,2024-01-01,,250
+M0207,SMB retail,FR,blended,2025-02-01,,250
+M0208,SMB retail,UK,blended,2024-01-01,2025-07-01,250
+M0209,SMB retail,NL,blended,2024-01-01,2024-12-01,250
+M0210,SMB retail,UK,blended,2024-01-01,,250
+M0211,SMB retail,Nordics,blended,2024-01-01,,250
+M0212,SMB retail,Nordics,blended,2024-01-01,,250
+M0213,SMB retail,UK,blended,2024-01-01,,250
+M0214,SMB retail,UK,blended,2024-01-01,,250
+M0215,SMB retail,DE,blended,2025-06-01,,250
+M0216,SMB retail,FR,blended,2024-11-01,,250
+M0217,SMB retail,NL,blended,2024-10-01,,250
+M0218,SMB retail,UK,blended,2024-01-01,,250
+M0219,SMB retail,UK,blended,2024-01-01,,250
+M0220,SMB retail,DE,blended,2024-01-01,,250
+M0221,SMB retail,US,blended,2024-01-01,,250
+M0222,SMB retail,DE,blended,2024-01-01,,250
+M0223,SMB retail,ES,blended,2024-01-01,,250
+M0224,SMB retail,NL,blended,2024-01-01,,250
+M0225,SMB retail,Nordics,blended,2024-01-01,,250
+M0226,SMB retail,DE,blended,2024-01-01,,250
+M0227,SMB retail,FR,blended,2024-01-01,,250
+M0228,SMB retail,DE,blended,2024-01-01,,250
+M0229,SMB retail,NL,blended,2024-01-01,,250
+M0230,SMB retail,NL,blended,2024-01-01,,250
+M0231,SMB retail,DE,blended,2024-01-01,,250
+M0232,SMB retail,ES,blended,2024-01-01,,250
+M0233,SMB retail,FR,blended,2024-01-01,2024-07-01,250
+M0234,SMB retail,FR,blended,2024-04-01,,250
+M0235,SMB retail,Nordics,blended,2024-01-01,,250
+M0236,SMB retail,US,blended,2024-01-01,,250
+M0237,SMB retail,NL,blended,2024-01-01,,250
+M0238,SMB retail,DE,blended,2024-01-01,,250
+M0239,SMB retail,UK,blended,2024-01-01,,250
+M0240,SMB retail,UK,blended,2024-01-01,,250
+M0241,SMB retail,DE,blended,2024-01-01,,250
+M0242,SMB retail,ES,blended,2024-01-01,2024-08-01,250
+M0243,SMB retail,NL,blended,2024-01-01,,250
+M0244,SMB retail,Nordics,blended,2024-01-01,,250
+M0245,SMB retail,UK,blended,2024-01-01,,250
+M0246,SMB retail,UK,blended,2024-01-01,,250
+M0247,SMB retail,NL,blended,2024-01-01,,250
+M0248,SMB retail,DE,blended,2024-01-01,,250
+M0249,SMB retail,FR,blended,2024-01-01,,250
+M0250,SMB retail,ES,blended,2024-01-01,,250
+M0251,SMB retail,DE,blended,2024-01-01,,250
+M0252,SMB retail,DE,blended,2024-01-01,,250
+M0253,SMB retail,DE,blended,2024-01-01,,250
+M0254,SMB retail,DE,blended,2024-01-01,,250
+M0255,SMB retail,US,blended,2024-01-01,2025-03-01,250
+M0256,SMB retail,ES,blended,2024-01-01,,250
+M0257,SMB retail,UK,blended,2024-01-01,,250
+M0258,SMB retail,NL,blended,2024-01-01,,250
+M0259,SMB retail,Nordics,blended,2024-01-01,,250
+M0260,SMB retail,NL,blended,2024-01-01,,250
+M0261,SMB retail,ES,blended,2024-01-01,,250
+M0262,SMB retail,Nordics,blended,2024-01-01,,250
+M0263,SMB retail,FR,blended,2024-01-01,,250
+M0264,SMB retail,DE,blended,2024-01-01,2025-11-01,250
+M0265,SMB retail,UK,blended,2025-06-01,,250
+M0266,SMB retail,UK,blended,2024-01-01,,250
+M0267,SMB retail,FR,blended,2024-01-01,,250
+M0268,SMB retail,FR,blended,2024-01-01,,250
+M0269,SMB retail,UK,blended,2024-01-01,2024-07-01,250
+M0270,SMB retail,ES,blended,2024-01-01,,250
+M0271,SMB retail,DE,blended,2024-01-01,,250
+M0272,SMB retail,Nordics,blended,2024-01-01,,250
+M0273,SMB retail,UK,blended,2024-01-01,,250
+M0274,SMB retail,UK,blended,2024-01-01,,250
+M0275,SMB retail,US,blended,2024-01-01,,250
+M0276,SMB retail,UK,blended,2025-04-01,,250
+M0277,SMB retail,NL,blended,2024-01-01,,250
+M0278,SMB retail,DE,blended,2024-01-01,,250
+M0279,SMB retail,NL,blended,2024-01-01,,250
+M0280,SMB retail,DE,blended,2024-01-01,,250
+M0281,SMB retail,DE,blended,2024-01-01,,250
+M0282,SMB retail,UK,blended,2024-01-01,,250
+M0283,SMB retail,NL,blended,2024-01-01,,250
+M0284,SMB retail,NL,blended,2025-05-01,,250
+M0285,SMB retail,UK,blended,2024-01-01,,250
+M0286,SMB retail,DE,blended,2025-02-01,,250
+M0287,SMB retail,ES,blended,2024-01-01,,250
+M0288,SMB retail,UK,blended,2024-12-01,,250
+M0289,SMB retail,NL,blended,2024-01-01,,250
+M0290,SMB retail,NL,blended,2024-01-01,,250
+M0291,SMB retail,NL,blended,2024-01-01,,250
+M0292,SMB retail,NL,blended,2024-01-01,,250
+M0293,SMB retail,UK,blended,2024-01-01,,250
+M0294,SMB retail,DE,blended,2024-01-01,,250
+M0295,SMB retail,ES,blended,2024-01-01,,250
+M0296,SMB retail,UK,blended,2024-01-01,,250
+M0297,SMB retail,UK,blended,2024-01-01,,250
+M0298,SMB retail,DE,blended,2025-03-01,,250
+M0299,SMB retail,FR,blended,2025-05-01,,250
+M0300,SMB retail,ES,blended,2024-01-01,,250
+M0301,SMB retail,UK,blended,2025-01-01,2025-08-01,250
+M0302,SMB retail,DE,blended,2024-01-01,,250
+M0303,SMB retail,FR,blended,2024-01-01,,250
+M0304,SMB retail,FR,blended,2024-12-01,2025-11-01,250
+M0305,SMB retail,NL,blended,2024-01-01,2024-08-01,250
+M0306,SMB retail,DE,blended,2024-01-01,,250
+M0307,SMB retail,Nordics,blended,2024-01-01,,250
+M0308,SMB retail,NL,blended,2024-01-01,,250
+M0309,SMB retail,UK,blended,2024-01-01,,250
+M0310,SMB retail,Nordics,blended,2024-01-01,,250
+M0311,SMB retail,NL,blended,2024-01-01,,250
+M0312,SMB retail,NL,blended,2024-01-01,,250
+M0313,SMB retail,ES,blended,2024-11-01,,250
+M0314,SMB retail,Nordics,blended,2024-01-01,,250
+M0315,SMB retail,NL,blended,2024-01-01,,250
+M0316,SMB retail,NL,blended,2024-01-01,,250
+M0317,SMB retail,FR,blended,2024-01-01,2025-04-01,250
+M0318,SMB retail,DE,blended,2024-01-01,,250
+M0319,SMB retail,NL,blended,2024-01-01,2025-09-01,250
+M0320,SMB retail,NL,blended,2024-01-01,,250
+M0321,SMB retail,FR,blended,2024-01-01,2024-10-01,250
+M0322,SMB retail,NL,blended,2024-01-01,,250
+M0323,SMB retail,DE,blended,2024-01-01,,250
+M0324,SMB retail,NL,blended,2024-01-01,,250
+M0325,SMB retail,NL,blended,2024-01-01,,250
+M0326,SMB retail,NL,blended,2024-10-01,,250
+M0327,SMB retail,FR,blended,2024-01-01,,250
+M0328,SMB retail,UK,blended,2024-01-01,,250
+M0329,SMB retail,ES,blended,2025-04-01,,250
+M0330,SMB retail,DE,blended,2024-01-01,,250
+M0331,SMB retail,FR,blended,2024-01-01,2025-05-01,250
+M0332,SMB retail,Nordics,blended,2024-01-01,,250
+M0333,SMB retail,UK,blended,2024-06-01,,250
+M0334,SMB retail,ES,blended,2024-01-01,,250
+M0335,SMB retail,ES,blended,2024-01-01,,250
+M0336,SMB retail,Nordics,blended,2024-01-01,,250
+M0337,SMB retail,Nordics,blended,2024-01-01,,250
+M0338,SMB retail,FR,blended,2025-01-01,,250
+M0339,SMB retail,UK,blended,2024-01-01,,250
+M0340,SMB retail,DE,blended,2024-01-01,,250
+M0341,SMB retail,NL,blended,2024-01-01,,250
+M0342,SMB retail,UK,blended,2024-01-01,,250
+M0343,SMB retail,DE,blended,2024-01-01,,250
+M0344,SMB retail,UK,blended,2024-01-01,,250
+M0345,SMB retail,UK,blended,2024-01-01,,250
+M0346,SMB retail,Nordics,blended,2024-01-01,,250
+M0347,SMB retail,ES,blended,2024-01-01,,250
+M0348,SMB retail,UK,blended,2024-01-01,,250
+M0349,SMB retail,DE,blended,2024-01-01,,250
+M0350,SMB retail,NL,blended,2025-08-01,,250
+M0351,SMB retail,NL,blended,2024-01-01,,250
+M0352,SMB retail,NL,blended,2024-01-01,,250
+M0353,SMB retail,DE,blended,2024-01-01,,250
+M0354,SMB retail,US,blended,2024-01-01,,250
+M0355,SMB retail,NL,blended,2024-01-01,,250
+M0356,SMB retail,NL,blended,2024-01-01,,250
+M0357,SMB retail,US,blended,2024-01-01,,250
+M0358,SMB retail,US,blended,2024-01-01,,250
+M0359,SMB retail,US,blended,2024-01-01,,250
+M0360,SMB retail,DE,blended,2025-08-01,,250
+M0361,SMB retail,DE,blended,2024-01-01,,250
+M0362,SMB retail,DE,blended,2024-07-01,,250
+M0363,SMB retail,NL,blended,2024-01-01,,250
+M0364,SMB retail,NL,blended,2024-01-01,2025-01-01,250
+M0365,SMB retail,NL,blended,2024-01-01,,250
+M0366,SMB retail,NL,blended,2024-01-01,,250
+M0367,SMB retail,ES,blended,2024-01-01,,250
+M0368,SMB retail,NL,blended,2024-01-01,,250
+M0369,SMB retail,FR,blended,2024-01-01,,250
+M0370,SMB retail,NL,blended,2024-01-01,,250
+M0371,SMB retail,DE,blended,2024-01-01,,250
+M0372,SMB retail,DE,blended,2024-01-01,,250
+M0373,SMB retail,UK,blended,2024-01-01,,250
+M0374,SMB retail,DE,blended,2024-01-01,,250
+M0375,SMB retail,FR,blended,2024-01-01,,250
+M0376,SMB retail,NL,blended,2025-06-01,,250
+M0377,SMB retail,UK,blended,2024-08-01,,250
+M0378,SMB retail,NL,blended,2024-01-01,,250
+M0379,SMB retail,NL,blended,2024-01-01,,250
+M0380,SMB retail,UK,blended,2024-01-01,,250
+M0381,SMB retail,NL,blended,2024-01-01,,250
+M0382,SMB retail,UK,blended,2024-01-01,,250
+M0383,SMB retail,DE,blended,2024-01-01,2025-10-01,250
+M0384,SMB retail,US,blended,2024-01-01,,250
+M0385,SMB retail,NL,blended,2024-01-01,,250
+M0386,SMB retail,NL,blended,2024-01-01,,250
+M0387,SMB retail,UK,blended,2024-01-01,,250
+M0388,SMB retail,FR,blended,2024-01-01,,250
+M0389,SMB retail,NL,blended,2024-01-01,,250
+M0390,SMB retail,NL,blended,2024-01-01,2025-11-01,250
+M0391,SMB retail,Nordics,blended,2024-01-01,,250
+M0392,SMB retail,NL,blended,2024-01-01,,250
+M0393,SMB retail,DE,blended,2024-01-01,,250
+M0394,SMB retail,UK,blended,2024-11-01,,250
+M0395,SMB retail,NL,blended,2024-01-01,2025-09-01,250
+M0396,SMB retail,NL,blended,2024-01-01,,250
+M0397,SMB retail,NL,blended,2024-01-01,,250
+M0398,SMB retail,NL,blended,2024-01-01,2024-07-01,250
+M0399,SMB retail,NL,blended,2024-01-01,,250
+M0400,SMB retail,NL,blended,2025-07-01,,250
+M0401,SMB retail,NL,blended,2024-11-01,,250
+M0402,SMB retail,FR,blended,2024-01-01,,250
+M0403,SMB retail,UK,blended,2025-07-01,,250
+M0404,SMB retail,ES,blended,2024-08-01,,250
+M0405,SMB retail,DE,blended,2024-01-01,,250
+M0406,SMB retail,NL,blended,2024-01-01,,250
+M0407,SMB retail,FR,blended,2024-01-01,,250
+M0408,SMB retail,FR,blended,2024-01-01,,250
+M0409,SMB retail,DE,blended,2024-01-01,,250
+M0410,SMB retail,ES,blended,2024-01-01,,250
+M0411,SMB retail,ES,blended,2024-01-01,,250
+M0412,SMB retail,DE,blended,2024-01-01,,250
+M0413,SMB retail,DE,blended,2024-01-01,,250
+M0414,SMB retail,Nordics,blended,2024-11-01,,250
+M0415,SMB retail,UK,blended,2024-01-01,,250
+M0416,SMB retail,DE,blended,2024-01-01,,250
+M0417,SMB retail,ES,blended,2024-01-01,2024-12-01,250
+M0418,SMB retail,NL,blended,2024-01-01,,250
+M0419,SMB retail,UK,blended,2025-06-01,,250
+M0420,SMB retail,DE,blended,2024-01-01,,250
+M0421,SMB retail,NL,blended,2024-01-01,,250
+M0422,SMB retail,DE,blended,2024-01-01,,250
+M0423,SMB retail,FR,blended,2024-07-01,,250
+M0424,SMB retail,FR,blended,2024-01-01,,250
+M0425,SMB retail,NL,blended,2024-01-01,,250
+M0426,SMB retail,UK,blended,2024-01-01,,250
+M0427,SMB retail,ES,blended,2024-01-01,,250
+M0428,SMB retail,DE,blended,2024-01-01,,250
+M0429,SMB retail,DE,blended,2024-01-01,,250
+M0430,SMB retail,Nordics,blended,2024-01-01,,250
+M0431,SMB retail,US,blended,2024-01-01,,250
+M0432,SMB retail,NL,blended,2025-05-01,,250
+M0433,SMB retail,NL,blended,2024-01-01,,250
+M0434,SMB retail,FR,blended,2024-01-01,,250
+M0435,SMB retail,NL,blended,2024-01-01,,250
+M0436,SMB retail,UK,blended,2024-01-01,,250
+M0437,SMB retail,Nordics,blended,2024-01-01,,250
+M0438,SMB retail,NL,blended,2024-01-01,,250
+M0439,SMB retail,FR,blended,2024-10-01,,250
+M0440,SMB retail,DE,blended,2024-01-01,,250
+M0441,SMB retail,FR,blended,2024-01-01,,250
+M0442,SMB retail,DE,blended,2024-01-01,,250
+M0443,SMB retail,Nordics,blended,2024-01-01,,250
+M0444,SMB retail,Nordics,blended,2024-01-01,,250
+M0445,SMB retail,FR,blended,2024-09-01,,250
+M0446,SMB retail,NL,blended,2024-01-01,,250
+M0447,SMB retail,US,blended,2024-01-01,,250
+M0448,SMB retail,Nordics,blended,2024-01-01,2024-10-01,250
+M0449,SMB retail,Nordics,blended,2024-01-01,,250
+M0450,SMB retail,DE,blended,2024-01-01,,250
+M0451,SMB retail,FR,blended,2024-01-01,,250
+M0452,SMB retail,DE,blended,2024-01-01,,250
+M0453,SMB retail,UK,blended,2024-01-01,,250
+M0454,SMB retail,UK,blended,2024-01-01,,250
+M0455,SMB retail,FR,blended,2024-01-01,,250
+M0456,SMB retail,NL,blended,2024-01-01,,250
+M0457,SMB retail,NL,blended,2024-01-01,,250
+M0458,SMB retail,DE,blended,2024-01-01,2024-12-01,250
+M0459,SMB retail,UK,blended,2024-01-01,,250
+M0460,SMB retail,NL,blended,2024-01-01,,250
+M0461,SMB retail,US,blended,2025-05-01,,250
+M0462,SMB retail,Nordics,blended,2024-01-01,,250
+M0463,SMB retail,DE,blended,2024-01-01,,250
+M0464,SMB retail,FR,blended,2024-07-01,,250
+M0465,SMB retail,DE,blended,2024-01-01,,250
+M0466,SMB retail,FR,blended,2024-01-01,,250
+M0467,SMB retail,NL,blended,2024-01-01,,250
+M0468,SMB retail,NL,blended,2024-01-01,2025-07-01,250
+M0469,SMB retail,FR,blended,2024-01-01,,250
+M0470,SMB retail,Nordics,blended,2024-01-01,,250
+M0471,SMB retail,Nordics,blended,2024-01-01,,250
+M0472,SMB retail,ES,blended,2024-01-01,,250
+M0473,SMB retail,FR,blended,2024-01-01,,250
+M0474,SMB retail,UK,blended,2024-01-01,,250
+M0475,SMB retail,FR,blended,2024-01-01,,250
+M0476,SMB retail,UK,blended,2024-01-01,,250
+M0477,SMB retail,UK,blended,2024-01-01,,250
+M0478,SMB retail,UK,blended,2024-01-01,,250
+M0479,SMB retail,US,blended,2024-01-01,,250
+M0480,SMB retail,FR,blended,2024-01-01,2024-10-01,250
+M0481,SMB retail,NL,blended,2024-01-01,,250
+M0482,SMB retail,ES,blended,2024-01-01,,250
+M0483,SMB retail,FR,blended,2024-01-01,,250
+M0484,SMB retail,NL,blended,2024-01-01,,250
+M0485,SMB retail,FR,blended,2024-01-01,,250
+M0486,SMB retail,NL,blended,2024-01-01,,250
+M0487,SMB retail,DE,blended,2024-01-01,,250
+M0488,SMB retail,NL,blended,2024-01-01,,250
+M0489,SMB retail,US,blended,2024-01-01,,250
+M0490,SMB retail,Nordics,blended,2024-01-01,,250
+M0491,SMB retail,ES,blended,2024-01-01,,250
+M0492,SMB retail,UK,blended,2024-01-01,,250
+M0493,SMB retail,US,blended,2024-10-01,,250
+M0494,SMB retail,UK,blended,2024-01-01,,250
+M0495,SMB retail,NL,blended,2024-10-01,,250
+M0496,SMB retail,NL,blended,2024-01-01,,250
+M0497,SMB retail,Nordics,blended,2024-01-01,,250
+M0498,SMB retail,UK,blended,2024-01-01,,250
+M0499,SMB retail,UK,blended,2024-01-01,,250
+M0500,SMB retail,UK,blended,2024-01-01,,250
+M0501,SMB retail,FR,blended,2024-01-01,,250
+M0502,SMB retail,DE,blended,2024-01-01,,250
+M0503,SMB retail,NL,blended,2024-01-01,,250
+M0504,SMB retail,Nordics,blended,2024-01-01,,250
+M0505,SMB retail,NL,blended,2024-01-01,,250
+M0506,SMB retail,UK,blended,2024-01-01,,250
+M0507,SMB retail,FR,blended,2024-01-01,,250
+M0508,SMB retail,NL,blended,2024-01-01,,250
+M0509,SMB retail,US,blended,2024-01-01,2025-01-01,250
+M0510,SMB retail,FR,blended,2025-08-01,,250
+M0511,SMB retail,Nordics,blended,2024-01-01,,250
+M0512,SMB retail,NL,blended,2025-06-01,,250
+M0513,SMB retail,DE,blended,2024-01-01,,250
+M0514,SMB retail,Nordics,blended,2024-01-01,,250
+M0515,SMB retail,Nordics,blended,2024-01-01,,250
+M0516,SMB retail,UK,blended,2024-01-01,,250
+M0517,SMB retail,Nordics,blended,2024-01-01,,250
+M0518,SMB retail,ES,blended,2024-01-01,,250
+M0519,SMB retail,DE,blended,2024-01-01,,250
+M0520,SMB retail,ES,blended,2025-07-01,2025-11-01,250
+M0521,SMB retail,DE,blended,2024-01-01,,250
+M0522,SMB retail,UK,blended,2024-01-01,,250
+M0523,SMB retail,NL,blended,2024-09-01,2025-05-01,250
+M0524,SMB retail,US,blended,2024-01-01,,250
+M0525,SMB retail,UK,blended,2024-01-01,,250
+M0526,SMB retail,DE,blended,2024-01-01,,250
+M0527,SMB retail,FR,blended,2024-01-01,,250
+M0528,SMB retail,NL,blended,2024-01-01,,250
+M0529,SMB retail,FR,blended,2024-01-01,,250
+M0530,SMB retail,NL,blended,2024-01-01,2025-09-01,250
+M0531,SMB retail,NL,blended,2024-01-01,,250
+M0532,SMB retail,DE,blended,2024-09-01,,250
+M0533,SMB retail,ES,blended,2024-01-01,,250
+M0534,SMB retail,ES,blended,2024-01-01,,250
+M0535,SMB retail,NL,blended,2024-01-01,,250
+M0536,SMB retail,FR,blended,2024-01-01,,250
+M0537,SMB retail,DE,blended,2025-04-01,,250
+M0538,SMB retail,NL,blended,2024-01-01,,250
+M0539,SMB retail,NL,blended,2024-01-01,,250
+M0540,SMB retail,US,blended,2024-07-01,,250
+M0541,SMB retail,Nordics,blended,2024-01-01,,250
+M0542,SMB retail,UK,blended,2024-01-01,,250
+M0543,SMB retail,ES,blended,2024-01-01,,250
+M0544,SMB retail,NL,blended,2024-01-01,,250
+M0545,SMB retail,DE,blended,2024-01-01,,250
+M0546,SMB retail,NL,blended,2024-01-01,,250
+M0547,SMB retail,DE,blended,2024-01-01,,250
+M0548,SMB retail,ES,blended,2024-01-01,,250
+M0549,SMB retail,FR,blended,2024-01-01,,250
+M0550,SMB retail,NL,blended,2024-01-01,,250

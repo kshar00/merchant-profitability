@@ -1,0 +1,6 @@
+payment_method,interchange_scheme_pct_domestic,interchange_scheme_pct_cross_border,scheme_fee_fixed_eur,partner_fee_pct,processing_cost_per_txn_eur,carries_loss
+debit_card,0.003,0.014,0.0,0.0,0.04,1
+credit_card,0.0055,0.017,0.0,0.0,0.04,1
+local_bank,0.0,0.0,0.06,0.0,0.03,0
+digital_wallet,0.0045,0.015,0.0,0.0,0.05,1
+bnpl,0.0,0.0,0.0,0.029,0.06,0
